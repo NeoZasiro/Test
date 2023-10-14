@@ -29,6 +29,6 @@ int main() {
 
     cout << "obj1 + obj2: " << "\n" << "x=" << obj3.get_x() << "\t"; // Вывод результата сложения
     cout << "y=" << obj3.get_y() << "\n";
-
+    sdasdasdas
     return 0;
 }
